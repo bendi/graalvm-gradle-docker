@@ -31,3 +31,5 @@ $ docker run -it --rm \
 
 > The `-v "$HOME"/.gradle:/root/.gradle` parameter mounts your local `~/.gradle` Gradle repository as a Docker volume.
 
+## Credits ##
+Inspired by [SoftInstigate/graalvm-maven-docker](https://github.com/SoftInstigate/graalvm-maven-docker)
