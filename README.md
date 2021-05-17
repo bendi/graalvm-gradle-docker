@@ -1,4 +1,4 @@
-# graalvm-maven-docker
+# graalvm-gradle-docker
 
 A docker image for [GraalVM](https://graalvm.org) and [Gradle](https://gradle.org) built with [sdkman](https://sdkman.io)
 
