@@ -26,7 +26,7 @@ $ docker run -it --rm \
   -v "$PWD":/opt/app  \
   -v "$HOME"/.gradle:/root/.gradle \
   bendi/graalvmgradle \
-  nativeImage
+  clean nativeImage
 ```
 
 > The `-v "$HOME"/.gradle:/root/.gradle` parameter mounts your local `~/.gradle` Gradle repository as a Docker volume.
