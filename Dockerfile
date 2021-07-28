@@ -1,6 +1,6 @@
 FROM debian:buster-slim
 
-ARG JAVA_VERSION="21.1.0.r11-grl"
+ARG JAVA_VERSION="21.2.0.r11-grl"
 
 ENV SDKMAN_DIR=/root/.sdkman
 
