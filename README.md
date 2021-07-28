@@ -6,7 +6,8 @@ It also installs `native-image`
 
 ## Versions ##
 
-- GraalVM: 21.1.0.r16-grl
+- GraalVM: 21.1.0.r11-grl
+- GraalVM: 21.2.0.r11-grl
 
 ## Pull image
 
